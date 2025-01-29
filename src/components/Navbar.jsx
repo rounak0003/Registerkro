@@ -35,7 +35,7 @@ function Navbar() {
                 </div>
                 <div className="flex flex-row gap-1 items-center border-r-2 pr-5">
                     <FaPhoneAlt />
-                    <span>+918447746183</span>
+                    <span>+919122007772</span>
                 </div>
                 <div className="flex flex-row gap-3 items-center">
                     <FaInstagram />
